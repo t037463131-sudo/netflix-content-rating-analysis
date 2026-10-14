@@ -1,0 +1,53 @@
+NETFLIX TV SHOWS AND MOVIES DATASET ANALYSIS
+==============================================
+
+DATASET AND CLEANING
+Rows read: 5,850
+Usable unique title rows: 5,850
+Rows with missing or invalid runtime: 14
+Rows with missing or invalid IMDb score: 482
+Rows with missing genres: 59
+
+DESCRIPTIVE STATISTICS
+Runtime (minutes): min 2, max 240, mean 77.07, median 83
+IMDb score: min 1.5, max 9.6, mean 6.51, median 6.6, standard deviation 1.16
+
+GROUP STATISTICS BY CONTENT TYPE
+Movie: 3,744 titles, average IMDb 6.25 (3,429 rated), average runtime 98.21 minutes
+Show: 2,106 titles, average IMDb 6.98 (1,939 rated), average runtime 39.24 minutes
+
+TOP 10 GENRES BY TITLE COUNT
+Drama: 2,968 titles, average IMDb 6.62
+Comedy: 2,325 titles, average IMDb 6.39
+Thriller: 1,228 titles, average IMDb 6.37
+Action: 1,157 titles, average IMDb 6.42
+Romance: 971 titles, average IMDb 6.38
+Documentation: 952 titles, average IMDb 7.01
+Crime: 936 titles, average IMDb 6.65
+Animation: 705 titles, average IMDb 6.70
+Family: 682 titles, average IMDb 6.33
+Fantasy: 630 titles, average IMDb 6.56
+
+TOP 10 GENRES BY AVERAGE IMDb SCORE (at least 30 rated titles)
+History: 7.13 average IMDb score (254 rated titles)
+War: 7.07 average IMDb score (155 rated titles)
+Documentation: 7.01 average IMDb score (859 rated titles)
+Animation: 6.70 average IMDb score (630 rated titles)
+Sport: 6.65 average IMDb score (170 rated titles)
+Crime: 6.65 average IMDb score (909 rated titles)
+Drama: 6.62 average IMDb score (2,827 rated titles)
+Fantasy: 6.56 average IMDb score (619 rated titles)
+Scifi: 6.55 average IMDb score (560 rated titles)
+European: 6.53 average IMDb score (428 rated titles)
+
+TOP 10 TITLES BY IMDb SCORE
+1. #ABtalks (2018): 9.6
+2. Breaking Bad (2008): 9.5
+3. Khawatir (2005): 9.5
+4. Avatar: The Last Airbender (2005): 9.3
+5. Our Planet (2019): 9.3
+6. Reply 1988 (2015): 9.2
+7. The Last Dance (2020): 9.1
+8. Kota Factory (2019): 9.1
+9. Major (2022): 9.1
+10. My Mister (2018): 9.1
